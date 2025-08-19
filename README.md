@@ -85,6 +85,3 @@ subfolder/audio3.wav
 - [AudioFile.h](https://github.com/adamstark/AudioFile) by Adam Stark  
   A simple, cross-platform, single-file, C++ library for reading and writing audio files.
 
-- 提供 **CMake 编译支持**
-
-请告诉我，我可以继续为你完善项目结构。
