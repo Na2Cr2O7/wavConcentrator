@@ -1,4 +1,4 @@
-
+确保你的wav文件有采样率信息。
 # wavConcentrator
 
 ![License](https://img.shields.io/badge/license-GPLv3-blue.svg)
